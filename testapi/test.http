@@ -1,0 +1,7 @@
+post http://localhost:3000/reg
+Content-Type: application/json
+
+{
+  "user":"frank",
+  "pwd":"123456"
+}
